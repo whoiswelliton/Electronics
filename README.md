@@ -7,7 +7,7 @@
 >### 2. Subjects:
 - **Semiconductors Theory**
     - NPN & PNP 
-- **Semiconductor Diodes and Their Applications**
+- **Diodes**
     - LED, Diodes, Zener Diode, Voltage Multipliers & Regulators, Rectifiers, Clampers & Limiters.
 - **Bipolar Junction Transistors (BJT)**
     - Transistor Biasing, DC Configurations (BC, EC e CC) & Applications
